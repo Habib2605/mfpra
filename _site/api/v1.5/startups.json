@@ -1,0 +1,1075 @@
+{ "links":
+    { "self": "http://localhost:4000/startups" }
+, "data":
+    [
+    
+    
+        { "id"        : "a-dock"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "A Dock"
+            , "pitch"         : "Le service facilitant les relations entre acteurs du transport routier de marchandises"
+            , "status"        : "acceleration"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "aeris"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Aeris"
+            , "pitch"         : "Limiter les rejets polluants dans l'air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels"
+            , "status"        : "death"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "aidantsconnect"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Aidants Connect"
+            , "pitch"         : "Permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule."
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "aides-territoires"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Aides-territoires"
+            , "pitch"         : "Accéder aux meilleures aides pour les projets de votre territoire"
+            , "status"        : "acceleration"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "anais"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "ANAIS"
+            , "pitch"         : "Maîtriser notre espace maritime"
+            , "status"        : "construction"
+            , "incubator"     : "fabnumdef"
+            }
+        }
+        ,
+    
+        { "id"        : "andi"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "ANDi"
+            , "pitch"         : "Faciliter l'immersion professionnelle des personnes en situation de handicap"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "anotea"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Anotea"
+            , "pitch"         : "Eclairer les personnes cherchant une formation professionnelle en affichant les notes et sommentaires collectés auprès des Demandeurs d'Emploi sortants de formation."
+            , "status"        : "Consolidation"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        ,
+    
+        { "id"        : "api-drones"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "API Drones"
+            , "pitch"         : "Une meilleure connaissance du ciel pour plus de sécurité et d'innovation"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "api-entreprise"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "API Entreprise"
+            , "pitch"         : "Récupérer les données des entreprises"
+            , "status"        : "consolidation"
+            , "incubator"     : "api_dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "api-geo"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "API Géo"
+            , "pitch"         : "Interrogez les référentiels géographiques plus facilement"
+            , "status"        : "consolidation"
+            , "incubator"     : "api_dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "api-particulier"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "API Particulier"
+            , "pitch"         : "Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches"
+            , "status"        : "consolidation"
+            , "incubator"     : "api_dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "api.gouv.fr"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "api.gouv.fr"
+            , "pitch"         : "Faciliter l'accès aux API publiques pour faire émerger de nouveaux services"
+            , "status"        : "consolidation"
+            , "incubator"     : "api_dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "aplus"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Administration+, le service public VIP pour tous"
+            , "pitch"         : "Résoudre les blocages administratifs inextricables"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "assec"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "ASSEC"
+            , "pitch"         : "Optimiser la réponse collective du monde agricole et des services de l'État au problème de pénurie d'eau en période de sécheresse"
+            , "status"        : "death"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "auvol"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Saisissez au vol !"
+            , "pitch"         : "Soutenir les agents qui assurent la sécurité aérienne"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "avril"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Avril - La V.A.E. facile"
+            , "pitch"         : "Obtenir un diplôme grâce à vos compétences"
+            , "status"        : "acceleration"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        ,
+    
+        { "id"        : "ban"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Base Adresse Nationale"
+            , "pitch"         : "Référencer l'intégralité des adresses du territoire français"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "bourse"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Bourse"
+            , "pitch"         : "Demander et liquider une bourse de collège en ligne"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "boussole"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Boussole des droits"
+            , "pitch"         : "Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "camino"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Camino"
+            , "pitch"         : "Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion."
+            , "status"        : "acceleration"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "candilib"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "CandiLib"
+            , "pitch"         : "Réserver simplement sa place d'examen pratique au permis de conduire"
+            , "status"        : "consolidation"
+            , "incubator"     : "lab-mi"
+            }
+        }
+        ,
+    
+        { "id"        : "cartobio"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Cartobio"
+            , "pitch"         : "Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "civils-de-la-defense"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Civils de la Défense"
+            , "pitch"         : "Recruter simplement des agents civils sous contrat"
+            , "status"        : "acceleration"
+            , "incubator"     : "fabnumdef"
+            }
+        }
+        ,
+    
+        { "id"        : "clara"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Clara - Vos aides en un clic"
+            , "pitch"         : "Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d'activité"
+            , "status"        : "acceleration"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        ,
+    
+        { "id"        : "classes12"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Classes à 12"
+            , "pitch"         : "Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves."
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "co-construisons"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Co-construisons"
+            , "pitch"         : "Mettre les petites contributions numériques au service de l'intérêt général"
+            , "status"        : "acceleration"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "codedutravail"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Code du travail numérique"
+            , "pitch"         : "Faciliter l'accès au droit du travail pour les entreprises et les employés."
+            , "status"        : "acceleration"
+            , "incubator"     : "sgmas"
+            }
+        }
+        ,
+    
+        { "id"        : "data.gouv.fr"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "data.gouv.fr"
+            , "pitch"         : "Partager, améliorer et réutiliser les données publiques"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "demarches-simplifiees.fr"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "demarches-simplifiees.fr"
+            , "pitch"         : "Dématérialiser n’importe quelle démarche administrative en quelques minutes"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "diagoriente"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "DiagOriente"
+            , "pitch"         : "Permettre aux jeunes en difficulté de découvrir leurs compétences et leurs aspirations"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "disinfo"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Disinfo"
+            , "pitch"         : "Diminuer la quantité de désinformation à laquelle un individu est confronté quotidiennement"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "domifa"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "DomiFa (domiciliation facilitée)"
+            , "pitch"         : "Faciliter l'accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation"
+            , "status"        : "construction"
+            , "incubator"     : "sgmas"
+            }
+        }
+        ,
+    
+        { "id"        : "dossiersco"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "DossierSCO"
+            , "pitch"         : "Inscrire son enfant au collège en quelques clics"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "e-chauffeur"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "e-Chauffeur"
+            , "pitch"         : "Optimiser le service de voiture de transport avec chauffeur au sein des bases de défense"
+            , "status"        : "acceleration"
+            , "incubator"     : "fabnumdef"
+            }
+        }
+        ,
+    
+        { "id"        : "e-controle"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "E-contrôle"
+            , "pitch"         : "Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées."
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "e-mjpm"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "e-MJPM"
+            , "pitch"         : "Trouver rapidement le bon professionnel pour les majeurs à protéger"
+            , "status"        : "acceleration"
+            , "incubator"     : "sgmas"
+            }
+        }
+        ,
+    
+        { "id"        : "eac"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Plateforme EAC"
+            , "pitch"         : "Augmenter le nombre d'actions artistiques et culturelles pour les jeunes dans les établissements scolaires"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "ecolab"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Ecolab"
+            , "pitch"         : "Apporter l'information environnementale au plus près des citoyens"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "etudiant-entrepreneur"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Étudiant entrepreneur"
+            , "pitch"         : "Faciliter l'accès au statut étudiant entrepreneur et à ses bénéfices"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "eva"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "eva (anciennement Compétences pro)"
+            , "pitch"         : "Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "fiches-de-banc"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Fiches de banc"
+            , "pitch"         : "Augmenter la productivité du traitement des amendements dans les cabinets ministériels"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "filharmonic"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Fil'harmonic"
+            , "pitch"         : "Faciliter le travail administratif autour des contrôles ICPE"
+            , "status"        : "death"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "fluctuat"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Fluctu@t"
+            , "pitch"         : "Aider au développement du transport fluvial en France"
+            , "status"        : "construction"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "geo.data.gouv.fr"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "geo.data.gouv.fr"
+            , "pitch"         : "Trouver facilement les données géographiques dont vous avez besoin"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "gps-usagers"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "GPS usagers"
+            , "pitch"         : "Orienter les usagers qui souhaitent joindre le département du Calvados vers le bon interlocuteur et le bon moyen de communication"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "histovec"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "HistoVec"
+            , "pitch"         : "Acheter un véhicule d'occasion en confiance en connaissant son historique"
+            , "status"        : "acceleration"
+            , "incubator"     : "lab-mi"
+            }
+        }
+        ,
+    
+        { "id"        : "itou"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Itou"
+            , "pitch"         : "La réussite pour tous"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "kelrisks"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Kelrisks"
+            , "pitch"         : "Evaluer et conseiller sur les risques de pollution d’un terrain."
+            , "status"        : "construction"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "la-bonne-boite"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "La Bonne Boîte"
+            , "pitch"         : "Trouver les entreprises qui vont recruter près de chez soi"
+            , "status"        : "consolidation"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        ,
+    
+        { "id"        : "la-bonne-formation"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "La Bonne Formation"
+            , "pitch"         : "Rechercher une formation efficace pour le retour à l'emploi et découvrir les financements possibles"
+            , "status"        : "acceleration"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        ,
+    
+        { "id"        : "lapins"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "RDV Solidarités (anciennement Lapins)"
+            , "pitch"         : "Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "le-taxi"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Le Taxi"
+            , "pitch"         : "Commander un taxi, rapidement"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "leximpact"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "LexImpact"
+            , "pitch"         : "Aider nos parlementaires à estimer les impacts de leurs amendements avant vote !"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "locatio"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "DossierFacile"
+            , "pitch"         : "Remettre la confiance au centre de la relation entre propriétaires et locataires"
+            , "status"        : "acceleration"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "lotocar"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Lotocar"
+            , "pitch"         : "Permettre aux personnes isolées et parfois coupées d'internet de se déplacer sur les territoires peu denses"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "maintenant"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Maintenant!"
+            , "pitch"         : "Recrutez des gens, pas des CV"
+            , "status"        : "acceleration"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        ,
+    
+        { "id"        : "maraudes"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "maraudes"
+            , "pitch"         : "Accompagner l'insertion des personnes à la rue"
+            , "status"        : "construction"
+            , "incubator"     : "sgmas"
+            }
+        }
+        ,
+    
+        { "id"        : "mdph"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "MDPH en ligne"
+            , "pitch"         : "Faciliter les demandes de compensation du handicap auprès des MDPH"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "medle"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Medlé"
+            , "pitch"         : "Permettre aux structures de médecine légale de consigner l'activité réalisée sur réquisition judiciaire et les personnels affectés"
+            , "status"        : "construction"
+            , "incubator"     : "sgmas"
+            }
+        }
+        ,
+    
+        { "id"        : "memo"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Memo"
+            , "pitch"         : "Vos candidatures en un clin d'oeil"
+            , "status"        : "consolidation"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        ,
+    
+        { "id"        : "mes-aides"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Mes Aides"
+            , "pitch"         : "Évaluer ses droits à 28 aides sociales. En moins de 7 minutes."
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "mon-entreprise"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Mon-entreprise.fr"
+            , "pitch"         : "L'assistant officiel du créateur d'entreprise"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "monstage"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Mon stage de 3e"
+            , "pitch"         : "Permettre aux élèves de 3e d'accéder à des stages pertinents et de qualité visant à accompagner leur émancipation et combattre les déterminismes sociaux"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "mpal"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Les aides de l’Anah"
+            , "pitch"         : "Accéder rapidement et simplement aux aides à l’habitat privé"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "mps"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Marchés publics simplifiés"
+            , "pitch"         : "Candidater en ligne à un Marché Public avec uniquement son SIRET"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "mrs"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Mes remboursements simplifiés (MRS)"
+            , "pitch"         : "Simplifier et accélérer le remboursement des frais d'utilisation du véhicule personnel ou des transports en commun"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "ogptoolbox"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "OGP Toolbox"
+            , "pitch"         : "Trouver des outils numériques pour améliorer la démocratie"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "open-academie"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Open Académie"
+            , "pitch"         : "Construire le lycée et le collège de demain"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "pass-culture"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Pass Culture"
+            , "pitch"         : "Faciliter l'accès des jeunes à la culture"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "pau-partage"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Pau Partage"
+            , "pitch"         : "Lutter contre l'isolement des personnes âgées en favorisant la rencontre avec des bénévoles"
+            , "status"        : "investigation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "peps"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Peps"
+            , "pitch"         : "Accompagner les agriculteurs vers des Pratiques Économes en produits PhytoSanitaires (PEPS)"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "permis-de-construire-facile"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Permis de construire facile"
+            , "pitch"         : "Déposez et gérez votre demande de permis de construire en toute simplicité"
+            , "status"        : "death"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "perspectives"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Perspectives"
+            , "pitch"         : "Mettre en relation des candidats validés par la méthode de recrutement par simulation, avec des employeurs et des formations à la recherche de leurs aptitudes"
+            , "status"        : "acceleration"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        ,
+    
+        { "id"        : "pix"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Pix"
+            , "pitch"         : "Mesurer, développer et valoriser ses compétences numériques"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "place-des-entreprises"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Place des Entreprises"
+            , "pitch"         : "Apporter l’ensemble des aides publiques aux entreprises qui en ont besoin"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "plante-et-moi"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Plante & Moi"
+            , "pitch"         : "Augmenter la présence de la nature en ville"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "polex"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Polex"
+            , "pitch"         : "Détecter et suivre les fraudes à l’examen du permis de conduire"
+            , "status"        : "construction"
+            , "incubator"     : "lab-mi"
+            }
+        }
+        ,
+    
+        { "id"        : "pop"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Plateforme Ouverte du Patrimoine"
+            , "pitch"         : "Valoriser notre patrimoine culturel auprès du plus grand nombre"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "poubelles-battle"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Poubelles Battle"
+            , "pitch"         : "Faciliter le déploiement de composteurs collectifs et encourager leur utilisation"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "preuve-de-covoiturage"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Registre de preuve de covoiturage"
+            , "pitch"         : "Développez le covoiturage sur votre territoire"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "psi"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Prélèvement à la source pour les indépendants"
+            , "pitch"         : "Simplifier radicalement le règlement des cotisations sociales par les indépendants"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "reserve-civique"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Réserve civique"
+            , "pitch"         : "Donner de son temps pour l'intérêt général"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "resorption-bidonvilles"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Résorption bidonvilles"
+            , "pitch"         : "Connaître, partager et agir pour résorber les bidonvilles"
+            , "status"        : "acceleration"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "retraite"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Mes démarches retraite pas à pas"
+            , "pitch"         : "Obtenir en quelques clics la liste personnalisée de ses démarches de retraite"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "reuni"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Reuni"
+            , "pitch"         : "Permettre aux agents publics d'accéder simplement aux documents qu'ils recherchent"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "sepia"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "SEPIA"
+            , "pitch"         : "Accélérer les interventions de la police du ciel"
+            , "status"        : "construction"
+            , "incubator"     : "fabnumdef"
+            }
+        }
+        ,
+    
+        { "id"        : "signalement"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "SignalConso"
+            , "pitch"         : "Faire baisser le nombre d'anomalies rencontrées par les consommateurs"
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "signaux-faibles"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Signaux Faibles"
+            , "pitch"         : "Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté"
+            , "status"        : "consolidation"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "trackdechets"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Trackdéchets"
+            , "pitch"         : "Gérer la traçabilité des déchets, en toute sécurité"
+            , "status"        : "construction"
+            , "incubator"     : "mtes"
+            }
+        }
+        ,
+    
+        { "id"        : "trait-d-union"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Trait d'Union"
+            , "pitch"         : "Permettre aux demandeurs d'emploi d'essayer des métiers qui recrutent et forment à côté de chez eux"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "transport"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "transport.data.gouv.fr"
+            , "pitch"         : "De l’information voyageur pour tous, partout en France, grâce à l’ouverture des données."
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "tremplin"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Tremplin"
+            , "pitch"         : "Rapprocher les professionnels de santé de leur futur territoire d’exercice"
+            , "status"        : "construction"
+            , "incubator"     : "sgmas"
+            }
+        }
+        ,
+    
+        { "id"        : "urbaclic"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Urbaclic"
+            , "pitch"         : "Accéder aux règles d'urbanisme en quelques clics"
+            , "status"        : "death"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "voir-et-localiser"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Voir & Localiser"
+            , "pitch"         : "Voir et localiser les appelants aux centres d'appels d'urgence"
+            , "status"        : "construction"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "workinfrance"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Work in France"
+            , "pitch"         : "La plateforme de demande d’autorisations provisoires de travail"
+            , "status"        : "acceleration"
+            , "incubator"     : "sgmas"
+            }
+        }
+        ,
+    
+        { "id"        : "zam"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Zam"
+            , "pitch"         : "Alléger la charge de préparation par le gouvernement du débat parlementaire."
+            , "status"        : "acceleration"
+            , "incubator"     : "dinsic"
+            }
+        }
+        ,
+    
+        { "id"        : "zen"
+        , "type"      : "startup"
+        , "attributes":
+            { "name"          : "Zen"
+            , "pitch"         : "Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois"
+            , "status"        : "acceleration"
+            , "incubator"     : "pole-emploi"
+            }
+        }
+        
+    
+    ]
+}

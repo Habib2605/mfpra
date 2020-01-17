@@ -1,0 +1,134 @@
+{ "links":
+    { "self": "http://localhost:4000/preincubation" }
+, "data":
+    [
+    
+    
+        { "id"        : "01-autonomie"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "Plateforme numérique direct autonomie"
+            , "owner" : "Département du Var"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "01-neosud" }
+                }
+            }
+        }
+        ,
+    
+        { "id"        : "01-cde"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "Centre départemental de l'enfance"
+            , "owner" : "Département du Var"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "01-neosud" }
+                }
+            }
+        }
+        ,
+    
+        { "id"        : "01-gazette"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "La Gazette de Pau"
+            , "owner" : "Agglomération de Pau Béarn Pyrénées"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "01-neosud" }
+                }
+            }
+        }
+        ,
+    
+        { "id"        : "01-idquart"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "IDQuart"
+            , "owner" : "Agglomération de Pau Béarn Pyrénées"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "01-neosud" }
+                }
+            }
+        }
+        ,
+    
+        { "id"        : "01-meli-melo"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "Méli-mélo"
+            , "owner" : "Agglomération de Pau Béarn Pyrénées"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "01-neosud" }
+                }
+            }
+        }
+        ,
+    
+        { "id"        : "01-poubelles-battle"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "Poubelles Battle"
+            , "owner" : "Agglomération de Pau Béarn Pyrénées"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "01-neosud" }
+                }
+            }
+        }
+        ,
+    
+        { "id"        : "01-rsa"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "Plateforme numérique du RSA"
+            , "owner" : "Département du Var"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "01-neosud" }
+                }
+            }
+        }
+        ,
+    
+        { "id"        : "01-uts"
+        , "type"      : "seedling"
+        , "attributes":
+            { "name"  : "Accueil téléphonique UTS"
+            , "owner" : "Département du Var"
+            }
+        , "relationships":
+            { "season":
+                { "data": { "type": "season", "id": "01-neosud" }
+                }
+            }
+        }
+        
+    
+    ]
+, "included":
+    [
+    
+        { "id"        : "01-neosud"
+        , "type"      : "season"
+        , "attributes":
+            { "title"  : "Saison 1 - Néosud"
+            , "start" : "2019-02-01"
+            }
+        }
+        
+    
+    ]
+
+}

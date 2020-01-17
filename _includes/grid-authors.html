@@ -1,0 +1,34 @@
+{% comment %}
+  Appeler cette page avec une startup
+  ex : {% include grid-authors.html startup=startup %}
+{% endcomment %}
+
+{% comment %}<!-- Initialiser l'équipe -->{% endcomment %}
+{% assign current_team = "" %}{% comment %}membres actifs de la startup{% endcomment %}
+
+{% comment %}<!-- Initialiser l'id -->{% endcomment %}
+{% assign startup_id = include.startup.id | remove: '/startups/' %}
+
+{% comment %}<!-- On boucle sur les membres de l'équipe -->{% endcomment %}
+{% assign team = site.authors | where:"startups", startup_id %}
+{% for people in team %}
+  {% capture to_append %}
+  <div class="article__author panel">
+    <div class="article__author-info">
+        <div class="article__author-name">{{ people.fullname }}</div>
+        <div class="article__author-role">{{ people.role }}</div>
+    </div>
+      {% include avatar.html author=people %}
+      <div class="article__author-description">
+        {% if people.link %}<a href="{{ people.link }}" target="_blank" rel="noopener">{% endif %}
+          {{ people.content | markdownify }}
+        {% if people.link %}</a>{% endif %}
+      </div>
+  </div>
+  {% endcapture %}
+  {% assign current_team = current_team | append: to_append %}
+{% endfor %}
+
+<div class="grid">
+  {{ current_team }}
+</div>

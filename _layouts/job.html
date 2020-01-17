@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+{% capture startup_id %}/startups/{{ page.startup }}{% endcapture %}
+{% assign startup = site.startups | where: "id", startup_id | first %}
+
+{% assign lang = page.lang | default: site.lang | default: "fr" %}
+<div class="page article">
+  {% include hero-job.html startup=startup roles=page.roles friend=page.friend %}
+
+  {% if page.type == 'friend' %}
+    <div class="notification full-width">Une offre à pourvoir chez nos camarades <br /><a href="{{ page.externalURL}}">Voir l'offre sur le site de {{ page.friend }}</a></div>
+  {% endif %}
+
+  {% if page.open %}
+    <div class="notification full-width">Poste ouvert le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></div>
+  {% else %}
+    <div class="notification warning full-width">Ce poste a été pourvu depuis son ouverture le <time datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date: "%d/%m/%Y" }}</time></div>
+  {% endif %}
+
+  <section class="section section-white">
+    {% if page.techno or page.junior %}
+      <div class="container">
+        <div class="text-quote">
+          <ul>
+            {% if page.junior %}<li>Bienvenue aux juniors sur ce poste ! L'équipe assurera votre formation.</li>{% endif %}
+            {% if page.techno %}
+              <li>Choix technologiques :
+                <ul>
+                  {% for techno in page.techno %}
+                  <li>{{ techno }}</li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endif %}
+          </ul>
+        </div>
+      </div>
+    {% endif %}
+    <div class="container">
+      <div class="lead-text">
+        {{ page.excerpt }}
+      </div>
+      <div class="richtext">
+        {{ content | remove: page.excerpt }}
+      </div>
+    </div>
+  </section>
+
+  {% if startup %}
+    <section class="section section-grey">
+      <div class="container startups">
+        <div class="grid">
+          {% include card-startup.html startup = startup %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+
+</div>

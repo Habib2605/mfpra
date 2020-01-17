@@ -1,0 +1,2331 @@
+[
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "A Dock",
+      "mission"   : "Le service facilitant les relations entre acteurs du transport routier de marchandises",
+      "owner" : "Ministère de la Transition écologique et solidaire / DGITM",
+      "incubator" : "mtes",
+      "url"      : "/startups/a-dock.html",
+      "contact"     : "contact@adock.mfpra.gouv.ne",
+      "current_team" : "Alexandre Dupont, Clémence Gourragne, Joeffrey Arruyer, Stéphane Raimbault, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Aeris",
+      "mission"   : "Limiter les rejets polluants dans l&#39;air en facilitant et en harmonisant la déclaration et le suivi des émissions des industriels",
+      "owner" : "Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/aeris.html",
+      "contact"     : "jacob.carbonel@mfpra.gouv.ne",
+      "current_team" : "Clément Camin, Jacob Carbonel, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Aidants Connect",
+      "mission"   : "Permettre à un aidant professionnel de réaliser des démarches administratives en ligne à la place d’une personne ne parvenant pas à les faire seule.",
+      "owner" : "Agence du Numérique",
+      "incubator" : "dinsic",
+      "url"      : "/startups/aidantsconnect.html",
+      "contact"     : "aidantsconnect@mfpra.gouv.ne",
+      "current_team" : "Anna-Livia Gomart, Bérengère Aujard, Florian Delezenne, Lauren Tron, Laurent Bossavit, Pierre-Louis Rolle, Radia Difallah, Raphael Odini, ",
+      "past_team" : "Thimy, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Aides-territoires",
+      "mission"   : "Accéder aux meilleures aides pour les projets de votre territoire",
+      "owner" : "Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/aides-territoires.html",
+      "contact"     : "aides-territoires@mfpra.gouv.ne",
+      "current_team" : "Alexia Gazel, Elise Marion, John Labuzan, Léa Landrieu, Mathieu SOLDANO, Thibault Jouannic, Yann Boisselier, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "ANAIS",
+      "mission"   : "Maîtriser notre espace maritime",
+      "owner" : "Ministère des Armées",
+      "incubator" : "fabnumdef",
+      "url"      : "/startups/anais.html",
+      "contact"     : "frederic.bardolle@def.gouv.fr",
+      "current_team" : "Arnaud Ménard, Charles Guenois, Christian Quest, Mathieu Lafont, Maxime Dréau, Romain Perroud, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "ANDi",
+      "mission"   : "Faciliter l&#39;immersion professionnelle des personnes en situation de handicap",
+      "owner" : "Caisse des dépôts",
+      "incubator" : "dinsic",
+      "url"      : "/startups/andi.html",
+      "contact"     : "karel.cloarec@mfpra.gouv.ne",
+      "current_team" : "Gaelle Toledano, Gibrail Berdouk, Karel Cloarec, Nathalie Reyre, Pieterjan Montens, Sarah Lancry, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Anotea",
+      "mission"   : "Eclairer les personnes cherchant une formation professionnelle en affichant les notes et sommentaires collectés auprès des Demandeurs d&#39;Emploi sortants de formation.",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/anotea.html",
+      "contact"     : "anotea@pole-emploi.fr",
+      "current_team" : "Benoît Guérout, Loïc Guillois, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "API Drones",
+      "mission"   : "Une meilleure connaissance du ciel pour plus de sécurité et d&#39;innovation",
+      "owner" : "SGDSN",
+      "incubator" : "dinsic",
+      "url"      : "/startups/api-drones.html",
+      "contact"     : "yohan.boniface@data.gouv.fr",
+      "current_team" : "Yohan Boniface, ",
+      "past_team" : "David Larlet, Gérard Leymarie, Ivan Collombet, Vincent Agnano, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "API Entreprise",
+      "mission"   : "Récupérer les données des entreprises",
+      "owner" : "DINSIC",
+      "incubator" : "api_dinsic",
+      "url"      : "/startups/api-entreprise.html",
+      "contact"     : "contact@apientreprise.fr",
+      "current_team" : "Alexandre De Pablo, Alexis Leclerc, Dorine Lambinet, Hugo Lepetit, Philippe Vrignaud, Samuel Faure, Thimy, Vincent B., ",
+      "past_team" : "Guillaume Lazzara, Jean-Christophe Blondel, Loïc Delmaire, Pierre Pezziardi, Tanguy Patte, Thibault Vigouroux, Xavier Julien, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "API Géo",
+      "mission"   : "Interrogez les référentiels géographiques plus facilement",
+      "owner" : "DINSIC",
+      "incubator" : "api_dinsic",
+      "url"      : "/startups/api-geo.html",
+      "contact"     : "geo@api.gouv.fr",
+      "current_team" : "Jérôme Desboeufs, Théophile Merlière, ",
+      "past_team" : "Nabil Servais, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "API Particulier",
+      "mission"   : "Accélérer l’ouverture des données personnelles et leur réutilisation pour simplifier les démarches",
+      "owner" : "DINSIC",
+      "incubator" : "api_dinsic",
+      "url"      : "/startups/api-particulier.html",
+      "contact"     : "contact@particulier.api.gouv.fr",
+      "current_team" : "Florian Delezenne, Pascal Knoth, Raphaël Dubigny, Stanislas Bernard, Thomas Menant, ",
+      "past_team" : "Anna-Livia Gomart, Anne-Marie Esteves, Florent Jaby, Pierre Pezziardi, Sebastian Sachetti, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "api.gouv.fr",
+      "mission"   : "Faciliter l&#39;accès aux API publiques pour faire émerger de nouveaux services",
+      "owner" : "DINSIC",
+      "incubator" : "api_dinsic",
+      "url"      : "/startups/api.gouv.fr.html",
+      "contact"     : "contact@api.gouv.fr",
+      "current_team" : "Amandine Audras, Florian Delezenne, Raphaël Dubigny, ",
+      "past_team" : "Anna-Livia Gomart, Jérôme Desboeufs, Laurent Bossavit, Matti Schneider, Thibaut Géry, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Administration+, le service public VIP pour tous",
+      "mission"   : "Résoudre les blocages administratifs inextricables",
+      "owner" : "DINUM",
+      "incubator" : "dinsic",
+      "url"      : "/startups/aplus.html",
+      "contact"     : "contact@aplus.mfpra.gouv.ne",
+      "current_team" : "Aurélie Jallut, Dominique Lequepeys, Dunia El Achcar, Julien Dauphant, Laurent COURTOIS-COURRET, Louis MOSCAROLA, Lucien Pereira, Mauko Quiroga, Pierre Momboisse, Simon Pineau, Sylvain Dermy, Thibault Desjardins, Yan Tanguy, Zohra Lebel, ",
+      "past_team" : "Ivan Collombet, Pierre Pezziardi, Sebastian Sachetti, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "ASSEC",
+      "mission"   : "Optimiser la réponse collective du monde agricole et des services de l&#39;État au problème de pénurie d&#39;eau en période de sécheresse",
+      "owner" : "Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/assec.html",
+      "contact"     : "michel.perrel@mfpra.gouv.ne",
+      "current_team" : "Julien Dreher, Matthieu Lassalvy, Michel Perrel, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Saisissez au vol !",
+      "mission"   : "Soutenir les agents qui assurent la sécurité aérienne",
+      "owner" : "DGAC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/auvol.html",
+      "contact"     : "didier.yvetot@mfpra.gouv.ne",
+      "current_team" : "Didier Yvetot, Inès Hijazi, Ishan Bhojwani, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Avril - La V.A.E. facile",
+      "mission"   : "Obtenir un diplôme grâce à vos compétences",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/avril.html",
+      "contact"     : "avril@pole-emploi.fr",
+      "current_team" : "Arnaud Denoix, Benoit Guillou, Marie Briche, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Base Adresse Nationale",
+      "mission"   : "Référencer l&#39;intégralité des adresses du territoire français",
+      "owner" : "Etalab",
+      "incubator" : "dinsic",
+      "url"      : "/startups/ban.html",
+      "contact"     : "adresse@data.gouv.fr",
+      "current_team" : "Jérôme Desboeufs, Théophile Merlière, Yohan Boniface, ",
+      "past_team" : "Christian Quest, Pierre Pezziardi, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Bourse",
+      "mission"   : "Demander et liquider une bourse de collège en ligne",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/bourse.html",
+      "contact"     : "contact@bourse.mfpra.gouv.ne",
+      "current_team" : "Hela Ghariani, ",
+      "past_team" : "Florian Delezenne, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Boussole des droits",
+      "mission"   : "Accéder à des conseils professionnels à proximité pour trouver un logement, une formation ou un emploi",
+      "owner" : "Direction de la jeunesse",
+      "incubator" : "dinsic",
+      "url"      : "/startups/boussole.html",
+      "contact"     : "contact@boussole.mfpra.gouv.ne",
+      "current_team" : "",
+      "past_team" : "Alexia Rey, Hela Ghariani, Mauko Quiroga, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Camino",
+      "mission"   : "Ouvrir les données du domaine minier pour partager l&#39;information sur les projets et faciliter leur gestion.",
+      "owner" : "Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/camino.html",
+      "contact"     : "camino@mfpra.gouv.ne",
+      "current_team" : "Adrien Risser, Florent Chalvet, François Romain, Guillaume Levieux, Joeffrey Arruyer, Nicolas Petitot, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "CandiLib",
+      "mission"   : "Réserver simplement sa place d&#39;examen pratique au permis de conduire",
+      "owner" : "Ministère de l&#39;Intérieur",
+      "incubator" : "lab-mi",
+      "url"      : "/startups/candilib.html",
+      "contact"     : "candilib@interieur.gouv.fr",
+      "current_team" : "Dominique Lequepeys, Frédéric Gillodes, Philippe Bron, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Cartobio",
+      "mission"   : "Ouvrir, enrichir et partager les données parcellaires de l’agriculture biologique",
+      "owner" : "Agence Française pour le Développement et la Promotion de l&#39;Agriculture Biologique (Agence Bio)",
+      "incubator" : "dinsic",
+      "url"      : "/startups/cartobio.html",
+      "contact"     : "contact@cartobio.mfpra.gouv.ne",
+      "current_team" : "Lucas Bchini, Sabine Safi, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Civils de la Défense",
+      "mission"   : "Recruter simplement des agents civils sous contrat",
+      "owner" : "Ministère des Armées",
+      "incubator" : "fabnumdef",
+      "url"      : "/startups/civils-de-la-defense.html",
+      "contact"     : "frederic.bardolle@def.gouv.fr",
+      "current_team" : "Luc Bersat, Chaker Bejaoui, Frédéric Bardolle, Mathieu Lafont, Nicolas Agostini, Yann Klis, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Clara - Vos aides en un clic",
+      "mission"   : "Découvrir les aides et mesures Pôle emploi qui accélèrent la reprise d&#39;activité",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/clara.html",
+      "contact"     : "clara@pole-emploi.fr",
+      "current_team" : "Anne-Camille Monet, Benoit Guillou, David Boureau, Marion Le Galle, Matthias Davoust, Maxime Devallez, Rémy Marronnier, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Classes à 12",
+      "mission"   : "Faciliter le passage en classe à 12 pour les enseignants et maximiser la valeur de ce dispositif pour les élèves.",
+      "owner" : "Ministère de l&#39;Éducation nationale",
+      "incubator" : "dinsic",
+      "url"      : "/startups/classes12.html",
+      "contact"     : "classea12@education.gouv.fr",
+      "current_team" : "Jean-Philippe Poisson, Jérémie Cook, Malika Alouani, Mathieu Agopian, Nicolas Leyri, Vincent Agnano, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Co-construisons",
+      "mission"   : "Mettre les petites contributions numériques au service de l&#39;intérêt général",
+      "owner" : "Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/co-construisons.html",
+      "contact"     : "laurence.matringe@developpement-durable.gouv.fr",
+      "current_team" : "Laurence Matringe, Roxane Schultz, Stéphane Legouffe, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Code du travail numérique",
+      "mission"   : "Faciliter l&#39;accès au droit du travail pour les entreprises et les employés.",
+      "owner" : "ministère du Travail",
+      "incubator" : "sgmas",
+      "url"      : "/startups/codedutravail.html",
+      "contact"     : "codedutravailnumerique@travail.gouv.fr",
+      "current_team" : "Abdessamad Youssfi, Adrien Di Pasquale, Aurélie Rolland, Clément Chapalain, Douglas Duteil, Ivan Gabriele, Jean-René Duscher, Jérémie Cook, Lionel Breduillieard, Manuel Colasante, Nicolas Kremer, ",
+      "past_team" : "Marc Hertzog, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "data.gouv.fr",
+      "mission"   : "Partager, améliorer et réutiliser les données publiques",
+      "owner" : "Etalab",
+      "incubator" : "dinsic",
+      "url"      : "/startups/data.gouv.fr.html",
+      "contact"     : "info@data.gouv.fr",
+      "current_team" : "Alexandre Bulté, Axel Haustant, David Larlet, Thomas Parisot, Vincent B., ",
+      "past_team" : "David Larlet, Pierre Pezziardi, Thimy, Vincent Agnano, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "demarches-simplifiees.fr",
+      "mission"   : "Dématérialiser n’importe quelle démarche administrative en quelques minutes",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/demarches-simplifiees.fr.html",
+      "contact"     : "contact@demarches-simplifiees.fr",
+      "current_team" : "Alexandre Friquet, Benjamin Doberset, Benjamin Henkel, Chaïb Martinez, Christophe Robillard, Clemence Leurent, Clément Camin, Frederic Merizen, Grégoire Novel, Ndriana Razafitrimo, Paul Chavard, Philémon Perrot, Philippe Vrignaud, Pierre de La Morinerie, Rédouane Bouchane, Simon Lehericey, ",
+      "past_team" : "Camille Garrigue, Ivan Collombet, Marine Crespel, Mathieu Magnin, Nicolas Bouilleaud, Sebastian Sachetti, Xavier Julien, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "DiagOriente",
+      "mission"   : "Permettre aux jeunes en difficulté de découvrir leurs compétences et leurs aspirations",
+      "owner" : "Haut-commissaire aux compétences et à l’inclusion par l’emploi",
+      "incubator" : "dinsic",
+      "url"      : "/startups/diagoriente.html",
+      "contact"     : "pascal.chaumette@id6tm.org",
+      "current_team" : "Amélie Metaldi, Damien Dufourd, Mahdi Hellal, Noé Cazin, Pascal Chaumette, Vincent Sommé, ",
+      "past_team" : "Ivan Collombet, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Disinfo",
+      "mission"   : "Diminuer la quantité de désinformation à laquelle un individu est confronté quotidiennement",
+      "owner" : "Ambassadeur pour le numérique",
+      "incubator" : "dinsic",
+      "url"      : "/startups/disinfo.html",
+      "contact"     : "matti.schneider@diplomatie.gouv.fr",
+      "current_team" : "Matti Schneider, Michel Blancard, Nicolas Dupont, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "DomiFa (domiciliation facilitée)",
+      "mission"   : "Faciliter l&#39;accès aux droits pour les personnes sans domicile stable, en simplifiant la gestion de la domiciliation",
+      "owner" : "Ministère des Solidarités et de la Santé",
+      "incubator" : "sgmas",
+      "url"      : "/startups/domifa.html",
+      "contact"     : "contact@domifa.mfpra.gouv.ne",
+      "current_team" : "Adrien Laville, Anais Martins Da Cruz, Douglas Duteil, Saniya Al Saadi, Yassine Riffi, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "DossierSCO",
+      "mission"   : "Inscrire son enfant au collège en quelques clics",
+      "owner" : "Ministère de l&#39;Éducation nationale",
+      "incubator" : "dinsic",
+      "url"      : "/startups/dossiersco.html",
+      "contact"     : "equipe@dossiersco.fr",
+      "current_team" : "Gabrielle Légeret, Noémie Girard, Philippe Blayo, Pierre de Maulmont, Stéphane Langlois, Yannick François, ",
+      "past_team" : "Christophe Robillard, Ismaël Hery, Laurent Bossavit, Lucien Mollard, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "e-Chauffeur",
+      "mission"   : "Optimiser le service de voiture de transport avec chauffeur au sein des bases de défense",
+      "owner" : "Ministère des Armées",
+      "incubator" : "fabnumdef",
+      "url"      : "/startups/e-chauffeur.html",
+      "contact"     : "frederic.bardolle@def.gouv.fr",
+      "current_team" : "Caroline Macé, Chaker Bejaoui, Fabrice Belorgey, Frédéric Bardolle, Gaël Demette, Mathieu Lafont, Paul Emptaz, Robin Lebert, Romain Perroud, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "E-contrôle",
+      "mission"   : "Simplifier les échanges de documents entre un organisme de contrôle et les organisations contrôlées.",
+      "owner" : "Cour des comptes",
+      "incubator" : "dinsic",
+      "url"      : "/startups/e-controle.html",
+      "contact"     : "e-controle@mfpra.gouv.ne",
+      "current_team" : "Arthur Valingot, Céline Kniebihler, Estelle Comment, Julien Dauphant, Léry Jicquel, Sylvain Toé, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "e-MJPM",
+      "mission"   : "Trouver rapidement le bon professionnel pour les majeurs à protéger",
+      "owner" : "Ministère des Affaires sociales",
+      "incubator" : "sgmas",
+      "url"      : "/startups/e-mjpm.html",
+      "contact"     : "contact@emjpm.mfpra.gouv.ne",
+      "current_team" : "Adrien Gonzalez, Douglas Duteil, Jasmine Meurin, Lucie Delorme, Maxime Basset, Mélanie Rogé, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Plateforme EAC",
+      "mission"   : "Augmenter le nombre d&#39;actions artistiques et culturelles pour les jeunes dans les établissements scolaires",
+      "owner" : "Ministère de la Culture",
+      "incubator" : "dinsic",
+      "url"      : "/startups/eac.html",
+      "contact"     : "pass@culture.gouv.fr",
+      "current_team" : "Claire de Boisgelin, Inès Hijazi, Loup Wolff, Raphaël Huchet, Valéry Nelcha, Vincent Agnano, ",
+      "past_team" : "Eric Westrelin, Marion Georges, Pierre Pezziardi, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Ecolab",
+      "mission"   : "Apporter l&#39;information environnementale au plus près des citoyens",
+      "owner" : "ADEME",
+      "incubator" : "dinsic",
+      "url"      : "/startups/ecolab.html",
+      "contact"     : "martin.regner@mfpra.gouv.ne",
+      "current_team" : "Arnaud Meunier, François-Joseph Grimault, Ishan Bhojwani, Jennifer Stephan, Maël Thomas, Martin Régner, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Étudiant entrepreneur",
+      "mission"   : "Faciliter l&#39;accès au statut étudiant entrepreneur et à ses bénéfices",
+      "owner" : "Ministère de l&#39;Enseignement supérieur",
+      "incubator" : "dinsic",
+      "url"      : "/startups/etudiant-entrepreneur.html",
+      "contact"     : "contact@etudiant-entrepreneur.mfpra.gouv.ne",
+      "current_team" : "",
+      "past_team" : "Hela Ghariani, Nicolas Brohée, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "eva (anciennement Compétences pro)",
+      "mission"   : "Favoriser l’insertion en détectant les compétences transversales et valorisant les potentiels à travers un outil de mise en situation numérique",
+      "owner" : "Haut-commissaire aux compétences et à l’inclusion par l’emploi - DGEFP",
+      "incubator" : "dinsic",
+      "url"      : "/startups/eva.html",
+      "contact"     : "contact@eva.mfpra.gouv.ne",
+      "current_team" : "Alexis Akinyemi, Benjamin Bartholet, Clément Morisset, Emmanuel Gaillot, Étienne Charignon, François de Metz, Gaëlle Ottan, Lauren Michel, Laurene Houtin, Matthieu Martin, Stéphane Hanser, ",
+      "past_team" : "Grégoire Novel, Hubert Leveque, Ivan Collombet, Lucas Miailhes, Thibaut Sailly, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Fiches de banc",
+      "mission"   : "Augmenter la productivité du traitement des amendements dans les cabinets ministériels",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/fiches-de-banc.html",
+      "contact"     : "matti.schneider@mfpra.gouv.ne",
+      "current_team" : "",
+      "past_team" : "Matti Schneider, Pierre Pezziardi, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Fil&#39;harmonic",
+      "mission"   : "Faciliter le travail administratif autour des contrôles ICPE",
+      "owner" : "Ministère de la Transition Ecologique et Solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/filharmonic.html",
+      "contact"     : "romain.campillo@developpement-durable.gouv.fr",
+      "current_team" : "Christophe Riboulet, Romain Campillo, Sebastien Jallot, Sébastien Vienot, Tristan Robert, ",
+      "past_team" : "Maxime Dréau, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Fluctu@t",
+      "mission"   : "Aider au développement du transport fluvial en France",
+      "owner" : "Ministère de la transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/fluctuat.html",
+      "contact"     : "karl.dupart@developpement-durable.gouv.fr",
+      "current_team" : "Elias Boukamza, Karl Dupart, Sebastien Jallot, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "geo.data.gouv.fr",
+      "mission"   : "Trouver facilement les données géographiques dont vous avez besoin",
+      "owner" : "Etalab",
+      "incubator" : "dinsic",
+      "url"      : "/startups/geo.data.gouv.fr.html",
+      "contact"     : "contact@geo.data.gouv.fr",
+      "current_team" : "Bertrand Marron, Jérôme Desboeufs, Théophile Merlière, ",
+      "past_team" : "Florian Delezenne, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "GPS usagers",
+      "mission"   : "Orienter les usagers qui souhaitent joindre le département du Calvados vers le bon interlocuteur et le bon moyen de communication",
+      "owner" : "Département du Calvados",
+      "incubator" : "dinsic",
+      "url"      : "/startups/gps-usagers.html",
+      "contact"     : "clotilde.gournay@mfpra.gouv.ne",
+      "current_team" : "Clotilde Gournay, ",
+      "past_team" : "Clément Chapalain, Ivan Collombet, Nicolas Kremer, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "HistoVec",
+      "mission"   : "Acheter un véhicule d&#39;occasion en confiance en connaissant son historique",
+      "owner" : "Ministère de l&#39;Intérieur",
+      "incubator" : "lab-mi",
+      "url"      : "/startups/histovec.html",
+      "contact"     : "histovec@interieur.gouv.fr",
+      "current_team" : "Dominique Lequepeys, Philippe Bron, Richard Violet, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Itou",
+      "mission"   : "La réussite pour tous",
+      "owner" : "Haut-commissaire aux compétences et à l’inclusion par l’emploi",
+      "incubator" : "dinsic",
+      "url"      : "/startups/itou.html",
+      "contact"     : "contact@inclusion.mfpra.gouv.ne",
+      "current_team" : "Agathe Latreille, Arnaud Denoix, Eric Barthélémy, Marc Hertzog, Pierre Deleforge, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Kelrisks",
+      "mission"   : "Evaluer et conseiller sur les risques de pollution d’un terrain.",
+      "owner" : "Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/kelrisks.html",
+      "contact"     : "contact@kelrisks.gouv.fr",
+      "current_team" : "Benoît Guigal, Joeffrey Arruyer, Thomas Bouchardon, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "La Bonne Boîte",
+      "mission"   : "Trouver les entreprises qui vont recruter près de chez soi",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/la-bonne-boite.html",
+      "contact"     : "eric.barthelemy@pole-emploi.fr",
+      "current_team" : "Agathe Latreille, Alexandre Cantin, Eric Barthélémy, Régis Behmo, Vermeer Grange, ",
+      "past_team" : "Ismaël Hery, Marc Hertzog, Michel Blancard, Tommy Jarnac, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "La Bonne Formation",
+      "mission"   : "Rechercher une formation efficace pour le retour à l&#39;emploi et découvrir les financements possibles",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/la-bonne-formation.html",
+      "contact"     : "christophe.bonraisin@pole-emploi.fr",
+      "current_team" : "Arnaud Denoix, Christophe Bonraisin, Jean-Yves Stervinou, ",
+      "past_team" : "Charlotte Lecuit, Ismaël Hery, Nathalie Reyre, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "RDV Solidarités (anciennement Lapins)",
+      "mission"   : "Réduire le nombre de rendez-vous annulés dans les maisons départementales de solidarité",
+      "owner" : "Consortium de départements",
+      "incubator" : "dinsic",
+      "url"      : "/startups/lapins.html",
+      "contact"     : "contact@rdv-solidarites.fr",
+      "current_team" : "Antoine Haguenauer, Aude Millamon, Camille Garrigue, Carl Quivron, Elodie Vaneecke, Mathieu Magnin, ",
+      "past_team" : "Ivan Collombet, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Le Taxi",
+      "mission"   : "Commander un taxi, rapidement",
+      "owner" : "DGITM",
+      "incubator" : "dinsic",
+      "url"      : "/startups/le-taxi.html",
+      "contact"     : "ishan.bhojwani@mfpra.gouv.ne",
+      "current_team" : "Ishan Bhojwani, Julien Castets, Vincent B., Vincent Lara, ",
+      "past_team" : "Pierre Pezziardi, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "LexImpact",
+      "mission"   : "Aider nos parlementaires à estimer les impacts de leurs amendements avant vote !",
+      "owner" : "Assemblée nationale",
+      "incubator" : "dinsic",
+      "url"      : "/startups/leximpact.html",
+      "contact"     : "leximpact@openfisca.org",
+      "current_team" : "Augustin Wenger, Dorine Lambinet, Elise Valetoux, Mauko Quiroga, Sandra Chakroun, Théodore Bidgrain, ",
+      "past_team" : "Laurent Bossavit, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "DossierFacile",
+      "mission"   : "Remettre la confiance au centre de la relation entre propriétaires et locataires",
+      "owner" : "Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/locatio.html",
+      "contact"     : "contact@locatio.mfpra.gouv.ne",
+      "current_team" : "Francois Odin, Harlow Fres, Julien Dreher, Lucie Prohin, Lucie-Anna Oddon, Matthieu Heurtel, Nicolas Prod'homme, Salah-Eddine Aitakkaouali, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Lotocar",
+      "mission"   : "Permettre aux personnes isolées et parfois coupées d&#39;internet de se déplacer sur les territoires peu denses",
+      "owner" : "Ademe / Préfecture du Lot (46)",
+      "incubator" : "dinsic",
+      "url"      : "/startups/lotocar.html",
+      "contact"     : "contact@lotocar.fr",
+      "current_team" : "Anne-Laure Guillerme, Chérif Mili, David Bruant, Ishan Bhojwani, Maël Thomas, Nathalie Berhault, Sabine Safi, ",
+      "past_team" : "François-Joseph Grimault, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Maintenant!",
+      "mission"   : "Recrutez des gens, pas des CV",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/maintenant.html",
+      "contact"     : "maintenant@pole-emploi.fr",
+      "current_team" : "Benoit Guillou, Olivier Pizzato, Raphaëlle Gaillard, Rémy Auricoste, ",
+      "past_team" : "Lauren Michel, Laurent Bossavit, Pierre Pezziardi, Xavier Nopre, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "maraudes",
+      "mission"   : "Accompagner l&#39;insertion des personnes à la rue",
+      "owner" : "le Ministère des Affaires sociales",
+      "incubator" : "sgmas",
+      "url"      : "/startups/maraudes.html",
+      "contact"     : "giulia.reboa@jscs.gouv.fr",
+      "current_team" : "Giulia Reboa, Raphaël Pierquin, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "MDPH en ligne",
+      "mission"   : "Faciliter les demandes de compensation du handicap auprès des MDPH",
+      "owner" : "Caisse nationale de solidarité pour l&#39;autonomie (CNSA)",
+      "incubator" : "dinsic",
+      "url"      : "/startups/mdph.html",
+      "contact"     : "contact@mdph.mfpra.gouv.ne",
+      "current_team" : "Hela Ghariani, ",
+      "past_team" : "Agathe le Nahenec, Fabien Champigny, Fanny Brûlebois, Florian Delezenne, Roman Quelen, Roxane Ricci, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Medlé",
+      "mission"   : "Permettre aux structures de médecine légale de consigner l&#39;activité réalisée sur réquisition judiciaire et les personnels affectés",
+      "owner" : "Ministère des Solidarités et de la Santé",
+      "incubator" : "sgmas",
+      "url"      : "/startups/medle.html",
+      "contact"     : "contact.medle@fabrique.social.gouv.fr",
+      "current_team" : "Pierre-Olivier Mauguet, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Memo",
+      "mission"   : "Vos candidatures en un clin d&#39;oeil",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/memo.html",
+      "contact"     : "zohra.hadji@pole-emploi.fr",
+      "current_team" : "Alan Le Ruyet, Arnaud Denoix, Eric Barthélémy, Julien Racine, Sébastien Cadiou, ",
+      "past_team" : "Allison Chanat, Ismaël Hery, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Mes Aides",
+      "mission"   : "Évaluer ses droits à 28 aides sociales. En moins de 7 minutes.",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/mes-aides.html",
+      "contact"     : "contact@mes-aides.gouv.fr",
+      "current_team" : "Alexandre Segura, Charlotte Lecuit, Jérémie Cook, Manon Léger, Thomas Guillet, ",
+      "past_team" : "Arnaud Kleinpeter, Florian Delezenne, Florian Pagnoux, Jérôme Desboeufs, Matti Schneider, Michel Blancard, Pierre Pezziardi, Sylvain Dermy, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Mon-entreprise.fr",
+      "mission"   : "L&#39;assistant officiel du créateur d&#39;entreprise",
+      "owner" : "DINSIC / Acoss",
+      "incubator" : "dinsic",
+      "url"      : "/startups/mon-entreprise.html",
+      "contact"     : "contact@mon-entreprise.mfpra.gouv.ne",
+      "current_team" : "Aymeric Faivre, Jihane Herizi, Johan Girod, Maël Thomas, Maxime Quandalle, ",
+      "past_team" : "Agathe le Nahenec, Georges Bayard, Laurent Bossavit, Maïtané Lenoir, Matti Schneider, Pierre Pezziardi, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Mon stage de 3e",
+      "mission"   : "Permettre aux élèves de 3e d&#39;accéder à des stages pertinents et de qualité visant à accompagner leur émancipation et combattre les déterminismes sociaux",
+      "owner" : "CGET",
+      "incubator" : "dinsic",
+      "url"      : "/startups/monstage.html",
+      "contact"     : "joel.cantaut@mfpra.gouv.ne",
+      "current_team" : "Brice Durand, Fabien Marie, Martin Fourcade, Mehdi Hamadi-Cavagnol, Romy Duhem-Verdière, ",
+      "past_team" : "Ivan Collombet, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Les aides de l’Anah",
+      "mission"   : "Accéder rapidement et simplement aux aides à l’habitat privé",
+      "owner" : "Agence nationale de l’habitat (Anah)",
+      "incubator" : "dinsic",
+      "url"      : "/startups/mpal.html",
+      "contact"     : "contact@anah.mfpra.gouv.ne",
+      "current_team" : "Quentin Cattez, ",
+      "past_team" : "Anne-Marie Esteves, Aryana Pezé, Christophe Robillard, Julien Vignolles, Laurent Bossavit, Romy Duhem-Verdière, Thomas Pepio, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Marchés publics simplifiés",
+      "mission"   : "Candidater en ligne à un Marché Public avec uniquement son SIRET",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/mps.html",
+      "contact"     : "philippe.vrignaud@modernisation.gouv.fr",
+      "current_team" : "Georges Bayard, Philippe Vrignaud, ",
+      "past_team" : "Guillaume Lazzara, Loïc Delmaire, Pierre Pezziardi, Tanguy Patte, Thibault Vigouroux, Xavier Julien, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Mes remboursements simplifiés (MRS)",
+      "mission"   : "Simplifier et accélérer le remboursement des frais d&#39;utilisation du véhicule personnel ou des transports en commun",
+      "owner" : "CNAMTS / CPAM de la Haute-Garonne (31)",
+      "incubator" : "dinsic",
+      "url"      : "/startups/mrs.html",
+      "contact"     : "frederic.boulay@mfpra.gouv.ne",
+      "current_team" : "Brice Jones, Frederic Boulay, James Pic, Jean-Baptiste Mora, Johan Quignard, Sébastien Roussel, Vincent Dardel, ",
+      "past_team" : "François-Joseph Grimault, Sebastian Sachetti, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "OGP Toolbox",
+      "mission"   : "Trouver des outils numériques pour améliorer la démocratie",
+      "owner" : "Etalab / Open Government Partnership",
+      "incubator" : "dinsic",
+      "url"      : "/startups/ogptoolbox.html",
+      "contact"     : "emmanuel@raviart.com",
+      "current_team" : "",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Open Académie",
+      "mission"   : "Construire le lycée et le collège de demain",
+      "owner" : "Ministère de l&#39;Éducation nationale",
+      "incubator" : "dinsic",
+      "url"      : "/startups/open-academie.html",
+      "contact"     : "pierre.de-maulmont@ac-paris.fr",
+      "current_team" : "Gabrielle Légeret, Philippe Blayo, Pierre de Maulmont, ",
+      "past_team" : "Elise Levy, Etienne Puydebois, Eytan Taieb, Ismaël Hery, Lucien Mollard, Margot de Maulmont, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Pass Culture",
+      "mission"   : "Faciliter l&#39;accès des jeunes à la culture",
+      "owner" : "Ministère de la Culture",
+      "incubator" : "dinsic",
+      "url"      : "/startups/pass-culture.html",
+      "contact"     : "support.passculture@mfpra.gouv.ne",
+      "current_team" : "Abel André, Adrien Saunier, Ahmed Alaoui, Alexis Julien, Anne-Marie Esteves, Anthony Tusithiphonexay, Arnaud Bétrémieux, Brandone Martins, Caroline Nerot, Cécile Compérat, Charlotte Christiaën, Clémence Chalopet, Edouard Perret, Emma L'Hostis, Erwan Ledoux, Fabien Mercier, Faustine Massin, Florent Facq, Ion Lazarescou, Laurene Taravella, Léa Guzzo, Léna Viller, Maïtena Skzobel, Mandy Llamas, Manon Maniere, Nicolas Fournier, Pablo Magro, Pierre Renaud, Romain Chaffal, Romain Delassus, Romy Duhem-Verdière, Sofía Calcagno, Stanislas Chable, Vincent Caillaux, Violaine Machichi-Prost, ",
+      "past_team" : "Jihane Herizi, Pierre Pezziardi, Sebastian Sachetti, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Pau Partage",
+      "mission"   : "Lutter contre l&#39;isolement des personnes âgées en favorisant la rencontre avec des bénévoles",
+      "owner" : "Agglomération de Pau Béarn Pyrénées",
+      "incubator" : "dinsic",
+      "url"      : "/startups/pau-partage.html",
+      "contact"     : "preincubation@mfpra.gouv.ne",
+      "current_team" : "",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Peps",
+      "mission"   : "Accompagner les agriculteurs vers des Pratiques Économes en produits PhytoSanitaires (PEPS)",
+      "owner" : "Ministère de l&#39;Agriculture et de l&#39;Alimentation - Ministère de la Transition Écologique et Solidaire",
+      "incubator" : "dinsic",
+      "url"      : "/startups/peps.html",
+      "contact"     : "peps@mfpra.gouv.ne",
+      "current_team" : "Alejandro Mantecon Guillen, Benjamin Doberset, Mathilde Petit, Maud Blanck, ",
+      "past_team" : "Ivan Collombet, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Permis de construire facile",
+      "mission"   : "Déposez et gérez votre demande de permis de construire en toute simplicité",
+      "owner" : "Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/permis-de-construire-facile.html",
+      "contact"     : "jean-michel.coste@developpement-durable.gouv.fr",
+      "current_team" : "Claire Vigier, Clément Camin, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Perspectives",
+      "mission"   : "Mettre en relation des candidats validés par la méthode de recrutement par simulation, avec des employeurs et des formations à la recherche de leurs aptitudes",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/perspectives.html",
+      "contact"     : "perspectives@pole-emploi.fr",
+      "current_team" : "Brice Friederich, Carole Thonnelier, Franck Coufourier, Kévin André, Mickaël Barroux, Mickael Rizzi, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Pix",
+      "mission"   : "Mesurer, développer et valoriser ses compétences numériques",
+      "owner" : "GIP PIX",
+      "incubator" : "dinsic",
+      "url"      : "/startups/pix.html",
+      "contact"     : "contact@pix.fr",
+      "current_team" : "Benjamin Marteau, Florian Enoh, Jérémy Buget, Jill-Jênn Vie, Mélanie Boudard, Quentin Cattez, ",
+      "past_team" : "Adrien Saunier, Antoine Boileau, David Boureau, Pierre Pezziardi, Thomas Wickham, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Place des Entreprises",
+      "mission"   : "Apporter l’ensemble des aides publiques aux entreprises qui en ont besoin",
+      "owner" : "DIRECCTE Haut-de-France",
+      "incubator" : "dinsic",
+      "url"      : "/startups/place-des-entreprises.html",
+      "contact"     : "mathieu.gens@mfpra.gouv.ne",
+      "current_team" : "Adeline Latron, Julien Rayneau, Lucien Mollard, Mathieu Gens, Mohamed Loucif, Nicolas Bouilleaud, Stéphanie Denysenko, ",
+      "past_team" : "Antoine Boileau, Arnaud Doucerain, Ivan Collombet, Juliette Culot, Tiffany Yozgadalian, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Plante &amp; Moi",
+      "mission"   : "Augmenter la présence de la nature en ville",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/plante-et-moi.html",
+      "contact"     : "biodiversite@mfpra.gouv.ne",
+      "current_team" : "Aurélien Ramos, Julien Dauphant, ",
+      "past_team" : "Célia Henry, Ismaël Hery, Karine Marasligiller, Sebastian Sachetti, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Polex",
+      "mission"   : "Détecter et suivre les fraudes à l’examen du permis de conduire",
+      "owner" : "Ministère de l&#39;Intérieur",
+      "incubator" : "lab-mi",
+      "url"      : "/startups/polex.html",
+      "contact"     : "frederic.gillodes@interieur.gouv.fr",
+      "current_team" : "Dominique Lequepeys, Frédéric Gillodes, Philippe Bron, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Plateforme Ouverte du Patrimoine",
+      "mission"   : "Valoriser notre patrimoine culturel auprès du plus grand nombre",
+      "owner" : "Ministère de la Culture",
+      "incubator" : "dinsic",
+      "url"      : "/startups/pop.html",
+      "contact"     : "sandrine.della-bartolomea@culture.gouv.fr",
+      "current_team" : "Antoine Bigard, Caroline Heurtel, Raphaël Huchet, Sandrine Della Bartolomea, Sebastien Le Goff, ",
+      "past_team" : "Pierre Pezziardi, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Poubelles Battle",
+      "mission"   : "Faciliter le déploiement de composteurs collectifs et encourager leur utilisation",
+      "owner" : "dinsic",
+      "incubator" : "dinsic",
+      "url"      : "/startups/poubelles-battle.html",
+      "contact"     : "poubelles-battle@mfpra.gouv.ne",
+      "current_team" : "Jennifer Stephan, Michaël Latour, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Registre de preuve de covoiturage",
+      "mission"   : "Développez le covoiturage sur votre territoire",
+      "owner" : "DGITM",
+      "incubator" : "dinsic",
+      "url"      : "/startups/preuve-de-covoiturage.html",
+      "contact"     : "contact@covoiturage.mfpra.gouv.ne",
+      "current_team" : "Gilles Boisson, Ishan Bhojwani, Jérémie Cook, Jonathan Fallon, Jonathan Kurtz, Margot Sanchez, Nicolas Mérigot, Samuel Eyre, Stacy Algrain, Thomas Menant, Vincent Lainé, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Prélèvement à la source pour les indépendants",
+      "mission"   : "Simplifier radicalement le règlement des cotisations sociales par les indépendants",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/psi.html",
+      "contact"     : "pierre.pezziardi@mfpra.gouv.ne",
+      "current_team" : "",
+      "past_team" : "Pierre Pezziardi, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Réserve civique",
+      "mission"   : "Donner de son temps pour l&#39;intérêt général",
+      "owner" : "Haut-commissariat à l&#39;engagement civique",
+      "incubator" : "dinsic",
+      "url"      : "/startups/reserve-civique.html",
+      "contact"     : "contact@reserve-civique.mfpra.gouv.ne",
+      "current_team" : "",
+      "past_team" : "Hela Ghariani, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Résorption bidonvilles",
+      "mission"   : "Connaître, partager et agir pour résorber les bidonvilles",
+      "owner" : "Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/resorption-bidonvilles.html",
+      "contact"     : "contact@action-bidonvilles.mfpra.gouv.ne",
+      "current_team" : "",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Mes démarches retraite pas à pas",
+      "mission"   : "Obtenir en quelques clics la liste personnalisée de ses démarches de retraite",
+      "owner" : "CNAV, MSA, Sécurité sociale pour les indépendants",
+      "incubator" : "dinsic",
+      "url"      : "/startups/retraite.html",
+      "contact"     : "cisse.traore@cnav.fr",
+      "current_team" : "",
+      "past_team" : "Xavier Nopre, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Reuni",
+      "mission"   : "Permettre aux agents publics d&#39;accéder simplement aux documents qu&#39;ils recherchent",
+      "owner" : "Direction générale des entreprises",
+      "incubator" : "dinsic",
+      "url"      : "/startups/reuni.html",
+      "contact"     : "gaelle.rousseau@finances.gouv.fr",
+      "current_team" : "Yannick Schini, ",
+      "past_team" : "Ivan Collombet, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "SEPIA",
+      "mission"   : "Accélérer les interventions de la police du ciel",
+      "owner" : "Ministère des Armées",
+      "incubator" : "fabnumdef",
+      "url"      : "/startups/sepia.html",
+      "contact"     : "frederic.bardolle@def.gouv.fr",
+      "current_team" : "Adrien Signorino, Bruno Chabot, Chaker Bejaoui, Fabien Tafforeau, Jeason Avezard, Mathieu Lafont, Romain Perroud, ",
+      "past_team" : "Arnaud Ménard, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "SignalConso",
+      "mission"   : "Faire baisser le nombre d&#39;anomalies rencontrées par les consommateurs",
+      "owner" : "Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF)",
+      "incubator" : "dinsic",
+      "url"      : "/startups/signalement.html",
+      "contact"     : "contact@signalconso.mfpra.gouv.ne",
+      "current_team" : "Agnès Mayanobe, Alexandre Michel, Grégoire Aubert, Jérôme Rivals, Julien Rayneau, Magali Marcel, Thomas Chaumeny, ",
+      "past_team" : "Franck Coufourier, Ivan Collombet, Julien Dauphant, Sélim Boudaa, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Signaux Faibles",
+      "mission"   : "Mieux cibler les interventions en remédiation de l’État vers les entreprises en difficulté",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/signaux-faibles.html",
+      "contact"     : "contact@signaux-faibles.mfpra.gouv.ne",
+      "current_team" : "Céline Rouot, Christophe Ninucci, Elodie Quézel, Pierre Camilleri, Stéphanie Schaer, ",
+      "past_team" : "Ivan Collombet, Pierre Pezziardi, Tiffany Yozgadalian, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Trackdéchets",
+      "mission"   : "Gérer la traçabilité des déchets, en toute sécurité",
+      "owner" : "Ministère de la Transition écologique et solidaire",
+      "incubator" : "mtes",
+      "url"      : "/startups/trackdechets.html",
+      "contact"     : "emmanuel.flahaut@developpement-durable.gouv.fr",
+      "current_team" : "Benoît Guigal, Claire Vigier, Emmanuel Flahaut, Laurent Paoletti, Orion Charlier, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Trait d&#39;Union",
+      "mission"   : "Permettre aux demandeurs d&#39;emploi d&#39;essayer des métiers qui recrutent et forment à côté de chez eux",
+      "owner" : "Région Grand Est",
+      "incubator" : "dinsic",
+      "url"      : "/startups/trait-d-union.html",
+      "contact"     : "contact@traitdunion.mfpra.gouv.ne",
+      "current_team" : "Chaïb Martinez, Damien Dufourd, Edwina Morize, Guillaume Lagorce, ",
+      "past_team" : "Ivan Collombet, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "transport.data.gouv.fr",
+      "mission"   : "De l’information voyageur pour tous, partout en France, grâce à l’ouverture des données.",
+      "owner" : "DGITM",
+      "incubator" : "dinsic",
+      "url"      : "/startups/transport.html",
+      "contact"     : "contact@transport.mfpra.gouv.ne",
+      "current_team" : "Antoine Desbordes, Antoine Martin, Baptiste Brun-Arasa, Beatrice Mercier, Henri Salomon, Ishan Bhojwani, Martin Rueda, Miryad Ali, Sabine Safi, Tristram Gräbener, Vincent Lara, ",
+      "past_team" : "Margot Sanchez, Mauko Quiroga, Pierre Pezziardi, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Tremplin",
+      "mission"   : "Rapprocher les professionnels de santé de leur futur territoire d’exercice",
+      "owner" : "Ministère des Solidarités et de la Santé",
+      "incubator" : "sgmas",
+      "url"      : "/startups/tremplin.html",
+      "contact"     : "pierre-yves.darnaudet@ars-sante.fr",
+      "current_team" : "Adrien Laville, Douglas Duteil, Pierre-Yves Darnaudet, Thomas Glatt, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Urbaclic",
+      "mission"   : "Accéder aux règles d&#39;urbanisme en quelques clics",
+      "owner" : "SGAR Occitanie, Etalab",
+      "incubator" : "dinsic",
+      "url"      : "/startups/urbaclic.html",
+      "contact"     : "fmoguen@openig.org",
+      "current_team" : "",
+      "past_team" : "Jérôme Desboeufs, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Voir &amp; Localiser",
+      "mission"   : "Voir et localiser les appelants aux centres d&#39;appels d&#39;urgence",
+      "owner" : "ASIP Santé - Agence Française de la Santé Numérique",
+      "incubator" : "dinsic",
+      "url"      : "/startups/voir-et-localiser.html",
+      "contact"     : "contact@voir-et-localiser.mfpra.gouv.ne",
+      "current_team" : "Benjamin Gicquel, Jean-Michel Armand, Romy Alula, Thomas Guillet, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Work in France",
+      "mission"   : "La plateforme de demande d’autorisations provisoires de travail",
+      "owner" : "Ministère des Affaires sociales",
+      "incubator" : "sgmas",
+      "url"      : "/startups/workinfrance.html",
+      "contact"     : "contact@workinfrance.mfpra.gouv.ne",
+      "current_team" : "Ana Andreolla, Daniel Balmy, Douglas Duteil, Jonathan Redt Gensinger, Maxime Basset, Saniya Al Saadi, Siegrid Henry, Thomas Glatt, ",
+      "past_team" : "Marc Hertzog, "
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Zam",
+      "mission"   : "Alléger la charge de préparation par le gouvernement du débat parlementaire.",
+      "owner" : "DINSIC",
+      "incubator" : "dinsic",
+      "url"      : "/startups/zam.html",
+      "contact"     : "melodie.dahi@mfpra.gouv.ne",
+      "current_team" : "David Larlet, Maïtané Lenoir, Mélodie Dahi, Raphaël Pierquin, Ronan Amicel, ",
+      "past_team" : ""
+
+    } ,
+  
+
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    {
+
+      "title"    : "Zen",
+      "mission"   : "Aider les demandeurs d’emploi qui cumulent emploi et chômage à être payé le bon montant d’allocation chômage chaque mois",
+      "owner" : "Pôle emploi",
+      "incubator" : "pole-emploi",
+      "url"      : "/startups/zen.html",
+      "contact"     : "zen@pole-emploi.fr",
+      "current_team" : "Hugo Agbonon, Jean-Claude YALAP, Jennifer Sanchez, Kévin André, Sylvie Lebel, ",
+      "past_team" : ""
+
+    } 
+  
+]

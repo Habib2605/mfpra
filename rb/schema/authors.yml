@@ -1,0 +1,38 @@
+type:       map
+mapping:
+  "fullname":
+    type:      str
+    required:  yes
+  "role":
+    type:      str
+    required:  yes
+  "link":
+    type:      str
+  "avatar":
+    type:      str
+  "github":
+    type:      str
+  "missions":
+    type:      seq
+    sequence:
+        - type:      map
+          mapping:
+            "start":
+              type:      str
+              required:  yes
+            "end":
+              type:      str
+            "status":
+              type:      str
+              assert:    "['dinsic','service','independent','admin'].include?(val)"
+              required:  yes
+            "employer":
+              type:      str
+  "startups":
+    type:      seq
+    sequence:
+        - type:      any
+  "previously":
+    type:      seq
+    sequence:
+        - type:      any

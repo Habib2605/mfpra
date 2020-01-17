@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+
+    <title>Responsable du déploiement de l'API le.taxi — mfpra.gouv.ne</title>
+    <meta property="og:title" content="Responsable du déploiement de l'API le.taxi">
+
+    
+    <meta name="description" content="le.taxi cherche une personne chargée d’accompagner sa généralisation aux 60 000 taxis français La transmission des données de localisation et de disponibilit...">
+    <meta property="og:description" content="le.taxi cherche une personne chargée d’accompagner sa généralisation aux 60 000 taxis français La transmission des données de localisation et de disponibilit...">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/assets/images/favicons/manifest.json">
+    <link rel="mask-icon" href="/assets/images/favicons/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
+    <meta name="apple-mobile-web-app-title" content="mfpra.gouv.ne">
+    <meta name="application-name" content="mfpra.gouv.ne">
+    <meta name="msapplication-TileColor" content="#042075">
+    <meta name="msapplication-TileImage" content="/assets/images/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/assets/images/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#042075">
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style/main.css">
+    <link rel="stylesheet" type="text/css" href="/assets/main.css">
+
+    
+      <link rel="stylesheet" type="text/css" href="/assets/additional/style/grid.css">
+    
+
+    
+    <link rel="canonical" href="http://localhost:4000/recrutement/2019/11/22/le-taxi-deploiement.html">
+    <meta property="og:url" content="http://localhost:4000/recrutement/2019/11/22/le-taxi-deploiement.html">
+
+
+    
+    <meta name="thumbnail" content="http://localhost:4000/img/logo-generique-startup-carre-2019.jpg">
+    <meta property="og:image" content="http://localhost:4000/img/logo-generique-startup-carre-2019.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <meta name="twitter:site" content="@BetaGouv">
+
+    
+    <meta name="twitter:image" content="http://localhost:4000/img/logo_twitter_image-2019.jpg">
+
+    
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.data.gouv.fr/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '21']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
+</head>
+
+
+  <body>
+    <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <defs>
+        <symbol id="icon-search">
+          <title>search</title>
+          <path d="M15.504 13.616l-3.79-3.223c-0.392-0.353-0.811-0.514-1.149-0.499 0.895-1.048 1.435-2.407 1.435-3.893 0-3.314-2.686-6-6-6s-6 2.686-6 6 2.686 6 6 6c1.486 0 2.845-0.54 3.893-1.435-0.016 0.338 0.146 0.757 0.499 1.149l3.223 3.79c0.552 0.613 1.453 0.665 2.003 0.115s0.498-1.452-0.115-2.003zM6 10c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4z"></path>
+        </symbol>
+
+        <symbol id="icon-mail">
+          <title>mail</title>
+          <path d="M29,4l-26,0c-1.65,0 -3,1.35 -3,3l0,20c0,1.65 1.35,3 3,3l26,0c1.65,0 3,-1.35 3,-3l0,-20c0,-1.65 -1.35,-3 -3,-3Zm-16.539,13.199l-8.461,6.59l0,-15.676l8.461,9.086Zm-6.949,-9.199l20.976,0l-10.488,7.875l-10.488,-7.875l0,0Zm7.278,9.553l3.21,3.447l3.21,-3.447l6.58,8.447l-19.579,0l6.58,-8.447l-0.001,0Zm6.749,-0.354l8.461,-9.086l0,15.676l-8.461,-6.59Z"/>
+        </symbol>
+
+        <symbol id="icon-fb">
+          <title>facebook</title>
+          <path d="M29,0l-26,0c-1.65,0 -3,1.35 -3,3l0,26c0,1.65 1.35,3 3,3l13,0l0,-14l-4,0l0,-4l4,0l0,-2c0,-3.306 2.694,-6 6,-6l4,0l0,4l-4,0c-1.1,0 -2,0.9 -2,2l0,2l6,0l-1,4l-5,0l0,14l9,0c1.65,0 3,-1.35 3,-3l0,-26c0,-1.65 -1.35,-3 -3,-3Z"/>
+        </symbol>
+
+        <symbol id="icon-github">
+          <title>github</title>
+          <path d="M16,0.395c-8.836,0 -16,7.163 -16,16c0,7.069 4.585,13.067 10.942,15.182c0.8,0.148 1.094,-0.347 1.094,-0.77c0,-0.381 -0.015,-1.642 -0.022,-2.979c-4.452,0.968 -5.391,-1.888 -5.391,-1.888c-0.728,-1.849 -1.776,-2.341 -1.776,-2.341c-1.452,-0.993 0.11,-0.973 0.11,-0.973c1.606,0.113 2.452,1.649 2.452,1.649c1.427,2.446 3.743,1.739 4.656,1.33c0.143,-1.034 0.558,-1.74 1.016,-2.14c-3.554,-0.404 -7.29,-1.777 -7.29,-7.907c0,-1.747 0.625,-3.174 1.649,-4.295c-0.166,-0.403 -0.714,-2.03 0.155,-4.234c0,0 1.344,-0.43 4.401,1.64c1.276,-0.355 2.645,-0.532 4.005,-0.539c1.359,0.006 2.729,0.184 4.008,0.539c3.054,-2.07 4.395,-1.64 4.395,-1.64c0.871,2.204 0.323,3.831 0.157,4.234c1.026,1.12 1.647,2.548 1.647,4.295c0,6.145 -3.743,7.498 -7.306,7.895c0.574,0.497 1.085,1.47 1.085,2.963c0,2.141 -0.019,3.864 -0.019,4.391c0,0.426 0.288,0.925 1.099,0.768c6.354,-2.118 10.933,-8.113 10.933,-15.18c0,-8.837 -7.164,-16 -16,-16l0,0Z"/>
+        </symbol>
+
+        <symbol id="icon-rss">
+          <title>rss</title>
+          <path d="M29,0l-26,0c-1.65,0 -3,1.35 -3,3l0,26c0,1.65 1.35,3 3,3l26,0c1.65,0 3,-1.35 3,-3l0,-26c0,-1.65 -1.35,-3 -3,-3Zm-20.281,25.975c-1.5,0 -2.719,-1.206 -2.719,-2.706c0,-1.488 1.219,-2.712 2.719,-2.712c1.506,0 2.719,1.225 2.719,2.712c0,1.5 -1.219,2.706 -2.719,2.706Zm6.825,0.025c0,-2.556 -0.994,-4.962 -2.794,-6.762c-1.806,-1.806 -4.2,-2.8 -6.75,-2.8l0,-3.912c7.425,0 13.475,6.044 13.475,13.475l-3.931,0l0,-0.001Zm6.944,0c0,-9.094 -7.394,-16.5 -16.481,-16.5l0,-3.912c11.25,0 20.406,9.162 20.406,20.413l-3.925,0l0,-0.001Z"/>
+        </symbol>
+
+        <symbol id="icon-twitter">
+          <title>twitter</title>
+          <path d="M32,7.075c-1.175,0.525 -2.444,0.875 -3.769,1.031c1.356,-0.813 2.394,-2.1 2.887,-3.631c-1.269,0.75 -2.675,1.3 -4.169,1.594c-1.2,-1.275 -2.906,-2.069 -4.794,-2.069c-3.625,0 -6.563,2.938 -6.563,6.563c0,0.512 0.056,1.012 0.169,1.494c-5.456,-0.275 -10.294,-2.888 -13.531,-6.862c-0.563,0.969 -0.887,2.1 -0.887,3.3c0,2.275 1.156,4.287 2.919,5.463c-1.075,-0.031 -2.087,-0.331 -2.975,-0.819c0,0.025 0,0.056 0,0.081c0,3.181 2.263,5.838 5.269,6.437c-0.55,0.15 -1.131,0.231 -1.731,0.231c-0.425,0 -0.831,-0.044 -1.237,-0.119c0.838,2.606 3.263,4.506 6.131,4.563c-2.25,1.762 -5.075,2.813 -8.156,2.813c-0.531,0 -1.05,-0.031 -1.569,-0.094c2.913,1.869 6.362,2.95 10.069,2.95c12.075,0 18.681,-10.006 18.681,-18.681c0,-0.287 -0.006,-0.569 -0.019,-0.85c1.281,-0.919 2.394,-2.075 3.275,-3.394l0,-0.001Z"/>
+        </symbol>
+
+        <symbol id="icon-googleplus">
+          <title>google +</title>
+          <path d="M29 0H3C1.35 0 0 1.35 0 3v26c0 1.65 1.35 3 3 3h26c1.65 0 3-1.35 3-3V3c0-1.65-1.35-3-3-3zM12 24c-4.425 0-8-3.575-8-8s3.575-8 8-8c2.162 0 3.969.787 5.363 2.094l-2.175 2.088c-.594-.569-1.631-1.231-3.188-1.231-2.731 0-4.963 2.263-4.963 5.05s2.231 5.05 4.963 5.05c3.169 0 4.356-2.275 4.538-3.45h-4.537v-2.744h7.556c.069.4.125.8.125 1.325 0 4.575-3.063 7.819-7.681 7.819L12 24zm16-8h-2v2h-2v-2h-2v-2h2v-2h2v2h2v2z" fill="#fff" fill-rule="nonzero"/>
+        </symbol>
+
+        <symbol id="icon-cross">
+            <title>cross</title>
+            <path d="M10 0c5.519 0 10 4.481 10 10s-4.481 10-10 10S0 15.519 0 10 4.481 0 10 0zm3.975 7.56a4.673 4.673 0 0 0-1.535-1.535L10 8.465l-2.44-2.44A4.673 4.673 0 0 0 6.025 7.56L8.465 10l-2.44 2.44c.384.625.91 1.151 1.535 1.535l2.44-2.44 2.44 2.44a4.673 4.673 0 0 0 1.535-1.535L11.535 10l2.44-2.44z"/>
+        </symbol>
+
+        <symbol id="icon-linkedin">
+            <title>linkedin</title>
+            <path d="M19,19H16V13.7A1.5,1.5 0 0,0 14.5,12.2A1.5,1.5 0 0,0 13,13.7V19H10V10H13V11.2C13.5,10.36 14.59,9.8 15.5,9.8A3.5,3.5 0 0,1 19,13.3M6.5,8.31C5.5,8.31 4.69,7.5 4.69,6.5A1.81,1.81 0 0,1 6.5,4.69C7.5,4.69 8.31,5.5 8.31,6.5A1.81,1.81 0 0,1 6.5,8.31M8,19H5V10H8M20,2H4C2.89,2 2,2.89 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z" />
+        </symbol>
+      </defs>
+    </svg>
+    
+<header class="navbar">
+  <div class="navbar__container">
+    <a class="navbar__home" href="/">
+      <img class="navbar__logo"
+        src="
+          
+            /assets/images/logo-marianne.svg
+          
+          "
+        alt="mfpra.gouv.ne" /><span class="navbar__domain"></span><img src="/assets/additional/images/logo-betagouvfr.svg" class="navbar__gouvfr" alt="gouv.fr" />
+    </a>
+
+    <nav>
+      <ul class="nav__links">
+        
+        <li class="nav__item">
+          
+            
+            <a  href="/startups/">Startups</a>
+          
+        </li>
+        
+        <li class="nav__item">
+          
+            
+            <a  href="/incubateurs/">Incubateurs</a>
+          
+        </li>
+        
+        <li class="nav__item">
+          
+            
+            <a  href="/alpha/">Formation</a>
+          
+        </li>
+        
+        <li class="nav__item">
+          
+            
+            <a  href="/preincubation/">Préincubation</a>
+          
+        </li>
+        
+        <li class="nav__item">
+          
+            
+            <a  href="/communaute/">Communauté</a>
+          
+        </li>
+        
+        <li class="nav__item">
+          
+            
+            <a  href="/apropos/">À propos</a>
+          
+        </li>
+        
+        <li class="nav__item">
+          
+            
+            <a class="active" href="/recrutement/">Recrutement</a>
+          
+        </li>
+        
+        <li class="nav__item">
+          
+            <a href="https://blog.mfpra.gouv.ne">Blog</a>
+          
+        </li>
+        
+      </ul>
+    </nav>
+  </div>
+</header>
+
+    
+
+
+
+<div class="page article">
+  <div class="hero article__hero">
+  <div class="hero__container">
+    <div class="article__container" style="text-align: center;">
+      <h1 class="article__title">Le Taxi recrute</h1>
+      <p class="article__title">une personne responsable du déploiement de l&#39;API le.taxi</p>
+    </div>
+  </div>
+</div>
+
+
+  
+
+  
+    <div class="notification full-width">Poste ouvert le <time datetime="2019-11-22">22/11/2019</time></div>
+  
+
+  <section class="section section-white">
+    
+    <div class="container">
+      <div class="lead-text">
+        <h2 id="letaxi-cherche-une-personne-chargée-daccompagner-sa-généralisation-aux-60-000-taxis-français">le.taxi cherche une personne chargée d’accompagner sa généralisation aux 60 000 taxis français</h2>
+
+<p>La transmission des données de localisation et de disponibilité au registre Le.Taxi devrait être généralisée à toute la France et à tous les taxis. Nous cherchons une personne motivée pour accompagner le déploiement de l’API le.taxi, service public numérique qui vise à accroître la présence des taxis dans les services numériques grand public (applications smartphone, sites web, etc), dès décembre 2019 et au moins jusqu’à fin août 2020, à un rythme de 3 à 4 jours par semaine.</p>
+
+<h2 id="à-propos-de-nous">À propos de nous</h2>
+
+<h3 id="léquipe">L’équipe</h3>
+
+<p>Nous sommes aujourd’hui une équipe de 3 personnes : 2 développeurs (Vincent et Julien) et 1 mentor (Ishan). L’équipe travaille en lien étroit avec la Direction générale des infrastructures, des transports et de la mer (DGITM), l’administration qui s’occupe notamment des transports au ministère de la Transition écologique et solidaire (MTES).</p>
+
+<p>Le MTES finance le service mais nous accorde une grande autonomie sur la communication, l’agenda, les outils utilisés, la gestion du budget et les recrutements. En particulier, nous n’exécutons pas de cahier des charges, ne dépendons pas de circuits de validation et tentons de limiter les réunions internes au strict minimum pour laisser le temps à chacun de s’organiser comme il l’entend pour être le plus efficace possible.</p>
+
+<p>Notre feuille de route est guidée par les besoins de nos utilisateurs et par notre objectif partagé de créer une infrastructure numérique publique qui permette à la fois une meilleure régulation par la donnée pour le secteur public et la mise en place d’un outil qui soit véritablement au service des taxis.</p>
+
+<p>Nos bureaux sont à Paris, avenue de Ségur, mais nous travaillons ponctuellement d’un peu partout. Nous sommes profondément intégrés à la communauté mfpra.gouv.ne, interagissons régulièrement avec d’autres équipes pour partager nos expériences respectives.</p>
+
+<p>Par notre travail, nous cherchons à montrer que des équipes autonomes, responsables et à qui l’on fait confiance peuvent construire des services numériques qui fonctionnent, simples, faciles à utiliser, et qui améliorent le service public.</p>
+
+<h3 id="la-communauté-mfpragouvne">La communauté mfpra.gouv.ne</h3>
+
+<p>L’équipe de le.taxi fait partie de la communauté mfpra.gouv.ne, qui réunit plus de 250 personnes.</p>
+
+<p>En rejoignant le.taxi qui est incubée à la Direction interministérielle du numérique (DINUM), dans l’un des 6 incubateurs publics du réseau mfpra.gouv.ne, vous rejoindrez une communauté profondément pluridisciplinaire, qui s’efforcera de vous fournir tout le soutien nécessaire à la résolution de vos problèmes au quotidien. Vous pourrez notamment participer à ses formations, ses ateliers de partage d’expérience, et bien sûr à ses pots, en général les mercredis soirs.</p>
+
+<h3 id="le-produit">Le produit</h3>
+
+<p>Le.Taxi a été lancé en 2015.</p>
+
+<p>Concrètement, il s’agit d’une API qui permet :</p>
+<ul>
+  <li>à des chauffeurs de taxis de transmettre via des applications agréées, leur position et leur statut de disponibilité (libre/occupé), et de recevoir des courses via ces mêmes applications ;</li>
+  <li>à des clients de commander un taxi proche via une application agréée.</li>
+</ul>
+
+<p>La liste des applications actuellement agréées est disponible à : https://le.taxi/partners.html</p>
+
+<p>Plus d’infos : https://le.taxi/fonctionnement.html</p>
+
+<h3 id="comment-nous-travaillons">Comment nous travaillons</h3>
+
+<p>Nous travaillons en <strong>petites équipes</strong> assez indépendantes et nous traitons nos collègues comme des adultes responsables. Nous pensons que les personnes les mieux placées pour prendre des décisions sur nos produits sont celles et ceux qui participent à leur construction et qui connaissent leurs utilisateurs directs.</p>
+
+<h2 id="à-propos-de-vous">À propos de vous</h2>
+
+<h3 id="votre-profil">Votre profil</h3>
+
+<p>Les personnes autonomes se plaisent bien dans la communauté mfpra.gouv.ne. Une personne autonome est capable de se gérer dans le travail : elle définit ses propres objectifs et trace la voie qui permet de les atteindre. <strong>Si vous n’avez pas besoin d’une supervision constante pour avancer sur ce que vous avez prévu de faire, vous allez être à votre aise ici.</strong></p>
+
+<p>Nous serions très contents d’entendre parler de vous si :</p>
+
+<ul>
+  <li>Le défi “rendre tous les taxis visibles sur les smartphone des Français” vous motive ;</li>
+  <li>Vous êtes capable de gérer des tâches de nature très différentes : stratégiques, juridiques, opérationnelles, techniques, administratives ;</li>
+  <li>Vous êtes prêt(e) à aller sur le terrain, en station de taxi ou en préfecture, pour rencontrer des chauffeuses ou chauffeurs de taxis et échanger avec eux afin de les former et de répondre à leurs questions ;</li>
+  <li>Les aspects juridiques ne vous font pas peur ;</li>
+  <li>Vous savez traduire en mots simples des notions complexes et techniques ;</li>
+  <li>Vous parvenez à gérer vos projets de A à Z, sans qu’on passe derrière vous ;</li>
+  <li>Vous acceptez de vous remettre parfois en question – ou de remettre en question les procédures adoptées par l’équipe – lorsque vous pensez pouvoir faire mieux.</li>
+</ul>
+
+<h3 id="ce-que-vous-ferez">Ce que vous ferez</h3>
+
+<p>Votre objectif est d’accompagner le déploiement de l’API le.taxi pour que le maximum de taxis soient inscrits et que le maximum d’applications grand public utilise ces données. Concrètement, cela signifie :</p>
+
+<ul>
+  <li>gérer les relations avec les partenaires le.taxi : équipementiers taxis, applications grand public, applications réservés aux chauffeurs, compagnies de taxis ;</li>
+  <li>organiser les tests opérationnels de la plateforme, sur le terrain ;</li>
+  <li>améliorer les supports de formation et de communication à destination des chauffeurs de taxis ;</li>
+  <li>aller à la rencontre des chauffeurs de taxis à Paris et en province pour recueillir des retours du terrain ;</li>
+  <li>déployer le registre dans de nouvelles villes ;</li>
+  <li>animer et stimuler les partenariats noués, par exemple en organisant des rencontres de la communauté ;</li>
+  <li>assurer le support des utilisateurs de la plateforme ;</li>
+  <li>codéfinir avec l’écosystème les modalités juridiques de la “maraude électronique” ;</li>
+  <li>participer activement à la définition des priorités d’évolution du produit, en lien avec les besoins des utilisateurs.</li>
+</ul>
+
+<p>Pour faire tout cela, vous passerez beaucoup de temps au téléphone, rencontrerez de nombreux acteurs, et répondrez à de nombreux mails. En revanche, vous préparerez peu de notes, réaliserez peu de PowerPoints et passerez peu de temps à faire du reporting.</p>
+
+<h2 id="détails-techniques">Détails techniques</h2>
+
+<h3 id="contrat">Contrat</h3>
+
+<p>Poste ouvert aux travailleurs en statut indépendant.</p>
+
+<p>Si le statut d’indépendant peut poser un frein à votre candidature, nous sommes disponibles pour discuter des modalités de création de statuts spécifiques.</p>
+
+<p>Si vous vous posez la question, nous sommes nombreux à être contractuels, employés d’une société de prestations ou indépendants au sein de la communauté mfpra.gouv.ne (plus d’infos : https://mfpra.gouv.ne/communaute/).</p>
+
+<h3 id="rémunération">Rémunération</h3>
+
+<p>La rémunération prévue est calculée à partir d’un taux journalier à définir en fonction de votre niveau d’expérience, entre 250 et 600 euros / jour.</p>
+
+<h3 id="travail-à-distance">Travail à distance</h3>
+
+<p>Le travail à distance est possible, sans qu’un préavis ou une validation ne soient nécessaires. Afin de faciliter votre embarquement et pour que vous puissiez contribuer à nos rituels et discuter avec les autres équipes de mfpra.gouv.ne, il est préférable  de venir travailler quelques jours par semaine dans l’espace partagé que nous mettons à disposition dans nos bureaux parisiens (en général le mercredi, jour des rituels collectifs de mfpra.gouv.ne, le standup et le séminaire).</p>
+
+<h3 id="déplacements">Déplacements</h3>
+
+<p>Des déplacements ponctuels en France peuvent être à prévoir dans le cadre du déploiement de le.taxi.</p>
+
+<h3 id="date-de-début">Date de début</h3>
+
+<p>Début décembre 2019 ou janvier 2020 (au plus tard).</p>
+
+<h3 id="formation">Formation</h3>
+
+<p>Nous formons celles et ceux qui rejoignent la communauté mfpra.gouv.ne aux méthodes des Startups d’État. Un cours en ligne qui reprend les principaux enseignements de ces sessions est à votre disposition <a href="https://mfpra.gouv.ne/alpha/mooc">ici</a>.</p>
+
+<p>Au sein de l’équipe le.taxi, nous veillerons à vous former sur nos outils si vous ne les connaissez pas et nous vous donnerons la liste des acronymes à connaître pour bien naviguer au sein de l’administration.</p>
+
+<h3 id="perspectives">Perspectives</h3>
+
+<p>Une grande partie des personnes qui rejoignent la communauté mfpra.gouv.ne pour une mission de courte période finissent par rester chez nous, parfois pour continuer dans l’équipe dans laquelle elles ont commencé, parfois pour rejoindre d’autres équipes, parfois pour endosser des rôles plus transverses. Dans le cas de le.taxi, l’équipe est financée par le Ministère chargé des transports jusqu’à août 2020, date à laquelle un comité d’investissement déterminera si nous repartirons pour un an.</p>
+
+<h3 id="procédure-de-recrutement">Procédure de recrutement</h3>
+
+<p>Dans l’idéal, avant de prendre une décision, l’ensemble de l’équipe souhaiterait rencontrer l’ensemble des candidat·e·s. Si cela s’avère compliqué, nous saurons nous adapter.</p>
+
+<h3 id="comment-envoyer-une-candidature">Comment envoyer une candidature</h3>
+
+<p>Envoyez-nous votre candidature par e-mail à l’adresse recrutement@mfpra.gouv.ne. Parlez-nous de ce qui vous donne envie de nous rejoindre (nul besoin de lettre de motivation formelle, quelques lignes dans le corps du mail suffisent). Écrivez avec vos mots à vous — l’emploi de jargon à la mode ne rapporte pas de points supplémentaires. Ajoutez votre CV ou un lien vers votre compte Linkedin, et tout ce que vous souhaitez nous communiquer (vidéo, compte Twitter, article de blog) qui nous permettra de mieux vous connaître.</p>
+
+<p>Si vous avez des questions avant de postuler, n’hésitez pas à les poser à la même adresse.</p>
+
+<h3 id="ce-que-vous-pouvez-lire-pour-vous-préparer">Ce que vous pouvez lire pour vous préparer</h3>
+
+<p>L’objectif est que l’on se rencontre, pas de stress ! Tutoiement bienvenu, dress code : comme vous viendriez si vous étiez déjà pris·e. Dans l’idéal, ce qu’on aimerait, c’est voir en une heure ce que ça donnerait de travailler ensemble dans deux mois.</p>
+
+<p>Si vous souhaitez mieux comprendre le sujet, voici les ressources les plus pertinentes à notre avis. Nulle obligation de tout lire, bien sûr.</p>
+
+<ul>
+  <li>
+    <p>Sur le.taxi : http://www.henriverdier.com/2016/11/pourquoi-letaxi-cest-important.html</p>
+  </li>
+  <li>
+    <p>Sur mfpra.gouv.ne : <a href="https://doc.data.gouv.fr/">la page “à propos”</a> - <a href="https://github.com/betagouv/mfpra.gouv.ne/wiki/charte">notre charte</a> – <a href="https://mfpra.gouv.ne/content/docs/rapportannuel.pdf">notre rapport d’activité 2017</a> - <a href="https://mfpra.gouv.ne/content/docs/guide.pdf">le guide de lancement d’une Startup d’État qui explique en détails les grands principes de la méthode</a>.</p>
+  </li>
+</ul>
+
+<p>Nous avons hâte de vous lire.</p>
+
+      </div>
+      <div class="richtext">
+        
+      </div>
+    </div>
+  </section>
+
+  
+    <section class="section section-grey">
+      <div class="container startups">
+        <div class="grid">
+          
+
+<div class="card">
+  <a href="/startups/le-taxi.html">
+    <div class="card__cover">
+      
+
+
+
+
+
+  
+  <img class="screenshot lozad" data-src="/img/startups/le-taxi.png" title="Interface de Le Taxi" alt="" data-proofer-ignore>
+
+
+    </div>
+    <div class="card__content">
+      <h3 class="startup__title">Le Taxi</h3>
+      <div class="card__meta">
+        DGITM
+      </div>
+      
+        <p>
+          Commander un taxi, rapidement
+        </p>
+      
+    </div>
+  </a>
+</div>
+
+        </div>
+      </div>
+    </section>
+  
+
+</div>
+
+    <footer class="footer">
+  <div class="container">
+    <div class="footer__logo">
+      <img src="/assets/images/betagouvfr.svg" alt="mfpra.gouv.ne">
+      
+      <ul class="footer__social">
+        
+        <li><a href="https://www.twitter.com/betagouv"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>
+        
+        <li><a href="https://www.linkedin.com/company/betagouv/"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg></a></li>
+        
+        <li><a href="https://www.github.com/betagouv"><svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg></a></li>
+        
+        <li><a href=""><svg class="icon icon-"><use xlink:href="#icon-"></use></svg></a></li>
+        
+      </ul>
+      
+    </div>
+
+    
+    <div class="footer__links">
+      
+      <ul>
+      
+        
+          
+          <li><a href="/en/">English presentation</a></li>
+        
+      
+        
+          
+          <li><a href="/apropos/">À propos</a></li>
+        
+      
+        
+          <li><a href="/content/docs/rapportannuel.pdf">En détails et en chiffres</a></li>
+        
+      
+        
+          
+          <li><a href="/communaute/">Communauté</a></li>
+        
+      
+        
+          
+          <li><a href="/contact/">Nous contacter</a></li>
+        
+      
+      </ul>
+    </div>
+    
+    <div class="footer__links">
+      
+      <ul>
+      
+        
+          <li><a href="https://www.numerique.gouv.fr/">Une mission de la DINUM</a></li>
+        
+      
+        
+          <li><a href="https://github.com/betagouv/mfpra.gouv.ne/">Code source</a></li>
+        
+      
+        
+          
+          <li><a href="/suivi/">Suivi d'audience et vie privée</a></li>
+        
+      
+        
+          <li><a href="https://www.data.gouv.fr/fr/datasets/conventions-de-partenariat/">Conventions de partenariat</a></li>
+        
+      
+      </ul>
+    </div>
+    
+    <div class="footer__links">
+      
+      <ul>
+      
+      </ul>
+    </div>
+    
+
+    <div></div>
+  </div>
+</footer>
+
+    <!--  Scripts-->
+
+
+<!-- Lazy Loading par défaut sur toutes les pages -->
+<script type="text/javascript" src="/assets/additional/js/lozad.min.js"></script>
+<script type="text/javascript">
+    window.addEventListener('load', function () {
+        // lazy loads elements with default selector as '.lozad'
+        const observer = lozad();
+        observer.observe();
+    });
+</script>
+
+  </body>
+
+</html>
